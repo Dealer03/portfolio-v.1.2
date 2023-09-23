@@ -190,7 +190,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ffc50a;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/20180617_135954.jpg)no-repeat;
+    background:url(../images/about/bg-pic.jpeg)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
@@ -213,9 +213,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ffc50a;}
     text-transform: uppercase;
     line-height: 1.5;
 }
-.header-text h2 span {color: #4166b4;}
 .header-text p {
-    color: #fff;
+    color: #ffc50a;
     font-size: 20px;
     font-weight: 300;
     text-transform: uppercase;
